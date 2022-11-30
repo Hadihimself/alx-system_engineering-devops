@@ -1,3 +1,2 @@
 #!/bin/bash
-cd tmp
-mv bitty /tmp/my_first_directory
+mv /tmp/bitty /tmp/my_first_directory
