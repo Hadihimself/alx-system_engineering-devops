@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /etc/passwd | greb "*root*"
+sudo greb 'root' /etc/passwd
